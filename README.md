@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/concaption/minimem-vector-store
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/concaption/minimem-vector-store)
 
 </div>
 
