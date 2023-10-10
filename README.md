@@ -1,3 +1,10 @@
+<div align="center">
+
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/concaption/minimem-vector-store/main.svg)](https://results.pre-commit.ci/latest/github/concaption/minimem-vector-store/main)
+
+</div>
+
+---
 
 <div align="center">
 
