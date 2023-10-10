@@ -21,3 +21,5 @@ refactor: format precommit lint
 m ?= "Quick commit"
 push:
 	git add . && git commit -m $(m) && git push
+run:
+	python app.py
