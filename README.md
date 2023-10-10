@@ -6,3 +6,9 @@
 </div>
 
 ---
+
+<div align="center">
+
+minimem is a minimal implementation of vectorstore concepts using only numpy
+
+</div>
