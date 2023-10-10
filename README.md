@@ -9,6 +9,6 @@
 
 <div align="center">
 
-minimem is a minimal implementation of vectorstore concepts using only numpy
+minimem is a minimal implementation of in-memory vector-store using only numpy
 
 </div>
